@@ -15,7 +15,7 @@ import (
 
 const mySecretString = "this is so very secret!"
 const prefix, passphrase = "C:\\Users\\sheny\\Workspace\\gpg\\", "joinus@2020"
-const secretKeyring = prefix + "private-card.gpg"
+const secretKeyring = prefix + "private-key.gpg"
 const publicKeyring = prefix + "public-key.gpg"
 
 func decTest(encString []byte) (string, error) {
