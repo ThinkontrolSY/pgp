@@ -1,0 +1,7 @@
+goencrypt
+*.gpg
+*.privkey
+*.pubkey
+*.txt
+*.asc
+*.bak

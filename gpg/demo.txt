@@ -1,2 +1,0 @@
-This is a demo test file
-for GPG dec
