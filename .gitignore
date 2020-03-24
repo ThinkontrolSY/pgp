@@ -3,5 +3,5 @@ goencrypt
 *.privkey
 *.pubkey
 *.txt
-*.asc
 *.bak
+dongle
